@@ -1,0 +1,15 @@
+.buttons button{
+    margin: 1rem;
+    border: none;
+    padding: 0.5rem 1rem;
+    cursor: pointer;
+
+}
+
+
+
+
+.buttons button:hover{
+    background-color: rgb(207, 216, 225);
+    transition: 1 ease-in-out;
+}

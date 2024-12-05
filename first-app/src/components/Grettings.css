@@ -1,0 +1,10 @@
+.bg-dark{
+    background-color: black;
+    color: white;
+    font-weight:100;
+    font-family: Arial, Helvetica, sans-serif;
+   
+    margin: auto;
+    width: 90%;
+    text-align: center;
+}
